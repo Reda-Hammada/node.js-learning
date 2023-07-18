@@ -30,6 +30,10 @@ exports.getTourById = (req, res) => {
   });
 };
 
-exports.updateTour = (req, res) => {};
+exports.updateTour = (req, res) => {
 
-exports.deleteTour = (req, res) => {};
+};
+
+exports.deleteTour = (req, res) => {
+  
+};
